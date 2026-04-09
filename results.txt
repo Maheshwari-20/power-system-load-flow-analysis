@@ -1,0 +1,7 @@
+Load Flow Analysis Results:
+
+Bus1: 1.0 pu
+Bus2: 0.98 pu
+Bus3: 0.95 pu
+
+System operating within acceptable limits.
